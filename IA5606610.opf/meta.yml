@@ -1,0 +1,18 @@
+id: IA5606610
+default_language: bo
+source: https://www.lotsawahouse.org
+initial_creation_type: web_scrap
+imported: 2023-01-04 11:30:31.203380
+last_modified: 2023-01-04 11:30:31.203396
+source_metadata:
+  collections:
+  - Chatral Rinpoche
+  - Works of Tibetan Masters
+bases:
+  9A64:
+    title: Words of Advice
+    base_file: 9A64.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
